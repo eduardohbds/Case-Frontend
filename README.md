@@ -1,4 +1,4 @@
-Case FrontEnd 
+## Case FrontEnd 
 Seu desafio é desenvolver este projeto de lista de produtos, incluindo um carrinho de compras funcional, e fazê-lo parecer o mais próximo possível do design original.
 
 Você pode usar quaisquer linguagens que desejar para concluir o desafio. Portanto, se houver algo que você gostaria de praticar, sinta-se à vontade para experimentar.
@@ -18,6 +18,7 @@ Seus usuários devem ser capazes de:
 Baixar o projeto e ler o arquivo README.md. Ele fornecerá mais detalhes sobre o projeto e ajudará na configuração.
 
 #### [Design](https://www.figma.com/design/1btyRiIcUWAhaG7K4N1eJX/Case---Frontend?node-id=3-136&p=f&t=l0mXxkFnGb0IXY0H-0)
+Abaixo esta o link com o design:
 https://www.figma.com/design/1btyRiIcUWAhaG7K4N1eJX/Case---Frontend?node-id=3-136&p=f&t=l0mXxkFnGb0IXY0H-0
 
 #### Deploy
