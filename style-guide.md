@@ -1,35 +1,33 @@
-# Front-end Style Guide
+# Guia de estilo de front-end
 
 ## Layout
 
-The designs were created to the following widths:
+Os designs foram criados nas seguintes larguras:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Celular: 375px
+Área de trabalho: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Esses são apenas os tamanhos do desenho. Garanta que o conteúdo seja responsivo e atenda aos requisitos WCAG, testando toda a gama de tamanhos de tela, de 320px a telas grandes.
 
-## Colors
+## Cores
 
-- Red: hsl(14, 86%, 42%)
-- Green: hsl(159, 69%, 38%)
+- Vermelho: hsl(14, 86%, 42%)
+- Verde: hsl (159, 69%, 38%)
 
-- Rose 50: hsl(20, 50%, 98%)
-- Rose 100: hsl(13, 31%, 94%)
-- Rose 300: hsl(14, 25%, 72%)
-- Rose 400: hsl(7, 20%, 60%)
-- Rose 500: hsl(12, 20%, 44%)
-- Rose 900: hsl(14, 65%, 9%)
+- Rosa 50: hsl(20, 50%, 98%)
+- Rosa 100: hsl(13, 31%, 94%)
+- Rosa 300: hsl(14, 25%, 72%)
+- Rosa 400: hsl(7, 20%, 60%)
+- Rosa 500: hsl(12, 20%, 44%)
+- Rosa 900: hsl(14, 65%, 9%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Cópia do corpo
 
-- Font size (product names): 16px
+- Tamanho da fonte (nomes dos produtos): 16px
 
-### Font
+### Fonte
 
-- Family: [Red Hat Text](https://fonts.google.com/specimen/Red+Hat+Text)
-- Weights: 400, 600, 700
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+- Família: [Red Hat Text](https://fonts.google.com/specimen/Red+Hat+Text)
+- Pesos: 400, 600, 700
