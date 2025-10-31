@@ -1,4 +1,4 @@
-## Case FrontEnd 
+Case FrontEnd 
 Seu desafio é desenvolver este projeto de lista de produtos, incluindo um carrinho de compras funcional, e fazê-lo parecer o mais próximo possível do design original.
 
 Você pode usar quaisquer linguagens que desejar para concluir o desafio. Portanto, se houver algo que você gostaria de praticar, sinta-se à vontade para experimentar.
@@ -28,15 +28,16 @@ Como mencionado acima, existem várias maneiras de hospedar o seu projeto de gra
 - [Netlify](https://www.netlify.com/)
 
 
-You can host your site using one of these solutions or any of our other trusted providers.
-Você pode hospedar usando uma dessas soluções ou qualquer outra [Artigo sobre hospedagem](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Você pode hospedar seu site usando uma dessas soluções ou qualquer um de nossos outros provedores confiáveis. [Hospedagens recomendadas](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
 #### Desafios 
 
-Use o arquivo data.json para preencher o DOM dinamicamente
-Escreva testes unitários para garantir que todas as ações funcionem corretamente de forma isolada
-Adicione mais produtos às mesmas categorias e tente implementar a filtragem por categoria
+* Use o arquivo data.json para preencher o DOM dinamicamente
+* Escreva testes unitários para garantir que todas as ações funcionem corretamente de forma isolada
+* Adicione mais produtos às mesmas categorias e tente implementar a filtragem por categoria
 
 #### Entrega
 O projeto final deve estar presente no github antes do prazo final e hospedado  em qualquer plataforma remota
 
+
+ 
